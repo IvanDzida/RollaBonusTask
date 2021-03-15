@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RollaBonusTask</string>
+    <string name="app_id">7342A20B</string>
+
+    <string name="play">Play</string>
+    <string name="chromecast_devices">List of chromecast devices</string>
+    <string name="video_files">List of video files</string>
+    <string name="select_device">Please select device first</string>
+    <string name="select_video">Please select video first</string>
+    <string name="play_video_title">Unfortunately</string>
+    <string name="play_video_message">This option is not finished, hopefully it will be available in the next update \n:(</string>
+    <string name="ok">OK</string>
+</resources>
